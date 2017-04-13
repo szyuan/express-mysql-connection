@@ -1,0 +1,25 @@
+{
+  "name": "express-mysql-connection",
+  "version": "1.0.0",
+  "description": "express-mysql-connection middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szYuan/express-mysql-connection.git"
+  },
+  "keywords": [
+    "express",
+    "mysql",
+    "connection",
+    "middleware"
+  ],
+  "author": "szy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szYuan/express-mysql-connection/issues"
+  },
+  "homepage": "https://github.com/szYuan/express-mysql-connection#readme"
+}
