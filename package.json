@@ -1,6 +1,6 @@
 {
   "name": "express-mysql-connection",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "express-mysql-connection middleware",
   "main": "index.js",
   "scripts": {
